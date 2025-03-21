@@ -1,6 +1,6 @@
 # Verification Condition Generator (VCG) for IMP Language
 
-## Jonathan Mors
+## Jonathan Morse
 
 ## Overview
 This project implements a Verification Condition Generator for the IMP language using the Weakest Precondition Predicate Transformer semantics. The VCG takes a Hoare triple as input and generates verification conditions that need to be satisfied for the program to be correct.
