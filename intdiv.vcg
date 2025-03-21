@@ -1,0 +1,9 @@
+{ x >= 0 and y > 0}
+q := 0;
+r := x;
+{ x = q*y + r and 0 <= r and y > 0}
+while r-y >=0 do begin
+    q := q+1;
+    r := r-y
+end
+{ x = q*y + r and 0 <= r and r < y}

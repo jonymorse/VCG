@@ -1,0 +1,52 @@
+cs710118@classes:~/prog1$ p_copy 1
+cs710118
+sending incremental file list
+created directory /tmp/cs710118-tmp
+Makefile
+README.md
+Ref.md
+VCG.py
+VCG18.jar
+intdiv.vcg
+loop.vcg
+test.svg
+test.vcg
+Parse/
+Parse/IMP.g4
+Parse/__init__.py
+Parse/antlr-4.13.2-complete.jar
+Parse/antlr-4.9.2-complete.jar
+Tree/
+Tree/AssertStmt.py
+Tree/AssignStmt.py
+Tree/BlockStmt.py
+Tree/BoolLit.py
+Tree/Exp.py
+Tree/FuncExp.py
+Tree/Ident.py
+Tree/IfStmt.py
+Tree/IntLit.py
+Tree/OpExp.py
+Tree/SeqStmt.py
+Tree/SkipStmt.py
+Tree/Stmt.py
+Tree/WhileStmt.py
+Tree/__init__.py
+
+sent 6,417,899 bytes  received 604 bytes  12,837,006.00 bytes/sec
+total size is 6,414,315  speedup is 1.00
+
+Use the following verify script to verify what you submitted: ~cs7101_bau/bin/verify 1 cs710118-20250320140132.169294321
+cs710118@classes:~/prog1$ 
+
+
+
+
+
+
+
+
+
+
+
+
